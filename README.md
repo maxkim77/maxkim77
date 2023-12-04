@@ -1,10 +1,5 @@
 # MAX's Portfolio
-![GitHub last commit](https://img.shields.io/github/last-commit/maxkim77/repository)
-![GitHub issues](https://img.shields.io/github/issues-raw/maxkim77/repository)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/maxkim77/repository)
-![GitHub forks](https://img.shields.io/github/forks/maxkim77/repository)
-![GitHub stars](https://img.shields.io/github/stars/maxkim77/repository)
-![GitHub license](https://img.shields.io/github/license/maxkim77/repository)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkim77)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
