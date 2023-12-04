@@ -1,5 +1,6 @@
 # MAX's Portfolio
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkim77&hide=contribs,prs&show_icons=true&theme=테마)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkim77&show_icons=true&theme=radical)
+
 ## Projects
 
 ### Diet24/7: Customized Diet Plan Web Platform Project
