@@ -69,5 +69,6 @@
 <p align="center">
   <a href="mailto:maxkim7723@gmail.com">Email: maxkim7723@gmail.com</a><br>
   <a href="https://www.linkedin.com/in/kjw77/">LinkedIn: LinkedIn Profile</a>
-  <a href="https://drive.google.com/file/d/1KemU3jtgh8pZBLA7VKK5Qqxqyo7IvklB/view?usp=drive_link">Resume</a>
+<br>
+  <a href="https://drive.google.com/file/d/1KemU3jtgh8pZBLA7VKK5Qqxqyo7IvklB/view?usp=drive_link">Resume(En)</a>
 </p>
