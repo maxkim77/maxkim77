@@ -2,11 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MaxWorld&fontSize=70" />
 </p>
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg  
-  ?url={ { site.url | replace_first: '://', '%3A%2F%2F' | replace_first: ':', '%3A' } }  
-  &count_bg=%233B72A4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true"/>
-</a>
+
 <h2 align="center">Stack</h2>
 
 <p align="center">
@@ -34,7 +30,11 @@
   <!-- Bootstrap Badge -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
 </p>
-
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg  
+  ?url={ { site.url | replace_first: '://', '%3A%2F%2F' | replace_first: ':', '%3A' } }  
+  &count_bg=%233B72A4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true"/>
+</a>
 <h2 align="center">Projects</h2>
 
 <p align="center">
