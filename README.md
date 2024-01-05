@@ -58,7 +58,6 @@
   Developed a Chat Bot Application using Django Rest Framework (DRF) for practicing English conversation and interviews.
 </p>
 
-------
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxkim77&show_icons=true&theme=radical" />
