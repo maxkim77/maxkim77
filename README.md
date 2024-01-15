@@ -69,11 +69,4 @@
 
 <h2 align="center">Contact Information</h2>
 
-<p align="center">
-  <a href="mailto:maxkim7723@gmail.com">Email: maxkim7723@gmail.com</a><br>
-  <a href="https://www.linkedin.com/in/kjw77/">LinkedIn: LinkedIn Profile</a>
-<br>
-  <a href="https://drive.google.com/file/d/1KemU3jtgh8pZBLA7VKK5Qqxqyo7IvklB/view?usp=drive_link">Resume(En)</a>
-</p>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaxkim77&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
