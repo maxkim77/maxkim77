@@ -43,7 +43,7 @@
   <i>Technologies Used: HTML, CSS, JavaScript</i><br>
   Developed a weight management web platform in response to increasing obesity and diseases. It features automatic generation of customized diet plans considering user's dietary preferences, nutritional needs, and weight goals.
 </p>
-
+ 
 <p align="center">
   <b>Technical Blog Project (Using AI Image Technology)</b><br>
   <a href="https://github.com/maxkim77/DjangoBlogProject">GitHub URL: DjangoBlogProject</a><br>
