@@ -4,7 +4,7 @@
  
     
 <h2 align="center">Stack</h2> 
-
+ 
 <p align="center">
   <!-- HTML Badge -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
