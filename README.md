@@ -54,7 +54,7 @@ Created a technical blog using Stable Diffusion for AI-generated images. Feature
 
 <b>Chat GPT-based Chat Bot Application</b><br>
 <a href="https://github.com/maxkim77/DRFChatService_Local">GitHub URL: DRFChatService_Local</a><br>
-<i>Technologies Used: Tailwind CSS, Python, Django Rest Framework (DRF), AWS LightSail</i><br>
+<i>Technologies Used: Tailwind CSS, Python, Django Rest Framework (DRF), AWS EC2 </i><br>
 Built a chatbot for English conversation and interview practice using OpenAI GPT-3.
 
 <h2>Contact Information</h2>
