@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MaxWorld&fontSize=70" />
-</p>  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0D88E6&width=435&lines=Welcome+to+MaxWorld!+👋;Fullstack+Developer;Passionate+about+Tech+%26+Innovation" />
+</p>
+
 
 <h2>Tech Stack</h2>
 
