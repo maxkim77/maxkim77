@@ -63,9 +63,11 @@ Built a chatbot for English conversation and interview practice using OpenAI GPT
 <i>Technologies Used: Django, DRF, WebSockets</i><br>
 Developed a community service platform for high school students, integrating admission boards, AI assistants, real-time chat functionality, and more.
 
-<b>SchoolTastic - Hackathon Team Collaboration</b><br>
-<i>Technologies Used: React, Django, Redis, WebSockets</i><br>
-A collaborative project focused on creating a user-centric platform with features like Q&A boards, live chat, and AI recommendations.
+<b>FitTo - Hackathon Project</b><br>
+<a href="https://github.com/maxkim77/HACKATHON_PROJECT">GitHub URL: FitTo</a><br>
+<i>Technologies Used: HTML, CSS, JavaScript, Google Maps API, Glide</i><br>
+Developed a public restroom locator application aimed at increasing accessibility and convenience, especially for vulnerable groups. Key features include restroom reviews, accessibility filters, and guardian notification systems.
+
 
 <h2>Contact Information</h2>
 <p>
