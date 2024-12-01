@@ -22,6 +22,23 @@
 
 <h2>Projects</h2>
 
+<h3>Backend Projects</h3>
+
+<b>RecipeSpark</b><br>
+<a href="https://github.com/maxkim77/RecipeSpark">GitHub URL: RecipeSpark</a><br>
+<i>Technologies Used: Spring Boot, Thymeleaf, Java, MySQL</i><br>
+Developed a recipe-sharing platform featuring AI-powered personalized recipe recommendations, a recipe board with CRUD operations, and Q&A functionality.
+
+<b>Technical Blog Project</b><br>
+<a href="https://github.com/maxkim77/DjangoBlogProject">GitHub URL: DjangoBlogProject</a><br>
+<i>Technologies Used: HTML, CSS, JavaScript, Bootstrap, Python, Django, AWS LightSail</i><br>
+Created a technical blog using Stable Diffusion for AI-generated images. Features include tech/development-focused articles.
+
+<b>Chat GPT-based Chat Bot Application</b><br>
+<a href="https://github.com/maxkim77/DRFChatService_Local">GitHub URL: DRFChatService_Local</a><br>
+<i>Technologies Used: Tailwind CSS, Python, Django Rest Framework (DRF), AWS EC2 </i><br>
+Built a chatbot for English conversation and interview practice using OpenAI GPT-3.
+
 <h3>Frontend Projects</h3>
 
 <b>Bakery Shop Publishing</b><br>
@@ -39,22 +56,6 @@ Built a shopping mall application with features such as login, logout, viewing p
 <i>Technologies Used: HTML, CSS, JavaScript</i><br>
 Developed a weight management platform with automated personalized diet plan generation based on user preferences and goals.
 
-<h3>Backend Projects</h3>
-
-<b>RecipeSpark</b><br>
-<a href="https://github.com/maxkim77/RecipeSpark">GitHub URL: RecipeSpark</a><br>
-<i>Technologies Used: Spring Boot, Thymeleaf, Java, MySQL</i><br>
-Developed a recipe-sharing platform featuring AI-powered personalized recipe recommendations, a recipe board with CRUD operations, and Q&A functionality.
-
-<b>Technical Blog Project</b><br>
-<a href="https://github.com/maxkim77/DjangoBlogProject">GitHub URL: DjangoBlogProject</a><br>
-<i>Technologies Used: HTML, CSS, JavaScript, Bootstrap, Python, Django, AWS LightSail</i><br>
-Created a technical blog using Stable Diffusion for AI-generated images. Features include tech/development-focused articles.
-
-<b>Chat GPT-based Chat Bot Application</b><br>
-<a href="https://github.com/maxkim77/DRFChatService_Local">GitHub URL: DRFChatService_Local</a><br>
-<i>Technologies Used: Tailwind CSS, Python, Django Rest Framework (DRF), AWS EC2 </i><br>
-Built a chatbot for English conversation and interview practice using OpenAI GPT-3.
 
 <h3>Team Projects</h3>
 
