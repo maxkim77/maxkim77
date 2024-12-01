@@ -34,12 +34,12 @@ Developed a static bakery shop web design using HTML and CSS. Included main, men
 <i>Technologies Used: React, JavaScript, CSS</i><br>
 Built a shopping mall application with features such as login, logout, viewing product lists, adding items to the cart, and viewing product details.
 
-<h3>Backend Projects</h3>
-
 <b>Diet24/7: Customized Diet Plan Web Platform</b><br>
 <a href="https://github.com/maxkim77/Diet247">GitHub URL: Diet247</a><br>
 <i>Technologies Used: HTML, CSS, JavaScript</i><br>
 Developed a weight management platform with automated personalized diet plan generation based on user preferences and goals.
+
+<h3>Backend Projects</h3>
 
 <b>RecipeSpark</b><br>
 <a href="https://github.com/maxkim77/RecipeSpark">GitHub URL: RecipeSpark</a><br>
