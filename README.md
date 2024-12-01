@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0D88E6&width=435&lines=Welcome+to+MaxWorld!+👋;Fullstack+Developer;Passionate+about+Tech+%26+Innovation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0D88E6&width=435&lines=Welcome+to+MaxWorld!+👋;Developer;Passionate+about+Tech+%26+Innovation" />
 </p>
 
 
