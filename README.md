@@ -37,11 +37,6 @@ Built a chatbot for English conversation and interview practice using OpenAI GPT
 
 <h3>Frontend Projects</h3>
 
-<b>Bakery Shop Publishing</b><br>
-<a href="https://github.com/maxkim77/BakeryWebPublish">GitHub URL: BakeryWebPublish</a><br>
-<i>Technologies Used: HTML, CSS</i><br>
-Developed a static bakery shop web design using HTML and CSS. Included main, menu, and about pages.
-
 <b>React Shopping Mall</b><br>
 <a href="https://github.com/maxkim77/react_shoppingmall">GitHub URL: React Shopping Mall</a><br>
 <i>Technologies Used: React, JavaScript, CSS</i><br>
